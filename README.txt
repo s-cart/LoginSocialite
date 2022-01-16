@@ -15,5 +15,9 @@ GOOGLE_CLIENT_SECRET=
 GOOGLE_REDIRECT=
 
 ==== History ========
-V3.2
+V3.2:
 - Auto verify account login socical
+V4.0:
+- Support S-Cart 6.8
+
+Link: https://s-cart.org/en/plugin/login-socialite_15980250855f3fed7da2123.html

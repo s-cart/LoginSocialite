@@ -5,7 +5,7 @@ namespace App\Plugins\Other\LoginSocialite\Controllers;
 use App\Plugins\Other\LoginSocialite\AppConfig;
 use SCart\Core\Front\Models\ShopCustomer;
 use SCart\Core\Front\Models\ShopCustomerAddress;
-use App\Http\Controllers\RootFrontController;
+use SCart\Core\Front\Controllers\RootFrontController;
 use Laravel\Socialite\Facades\Socialite;
 
 class FrontController extends RootFrontController
