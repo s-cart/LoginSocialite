@@ -3,7 +3,7 @@
 
 namespace App\Plugins\Other\LoginSocialite\Admin;
 
-use SCart\Core\Admin\Controllers\RootAdminControllerr;
+use SCart\Core\Admin\Controllers\RootAdminController;
 use App\Plugins\Other\LoginSocialite\AppConfig;
 
 class AdminController extends RootAdminController
